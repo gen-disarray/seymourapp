@@ -1,0 +1,7 @@
+pandas
+numpy
+geopandas
+os.path
+rasterio
+pyproj
+shapely
